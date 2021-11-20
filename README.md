@@ -25,10 +25,10 @@ This my landing portfolio, which explains more about me
 *CSS
 ## Support and contact details
 
-Incase of any issues or have questions, ideas or concerns you can reach me at manowfelow@gmail.com
+Incase of any issues or have questions, ideas or concerns you can reach me at rose.komen@strathmore.edu
 
 ### License
 
 MIT License
-Copyright (c) 2018 Abdulrahman Abdullahi Omar
+Copyright (c) 2021 Rose Komen
 # My-portfolio
